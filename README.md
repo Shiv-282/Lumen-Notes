@@ -4,8 +4,10 @@
 
 <p align="center">
   <!-- Add your screenshots here, e.g.:
-  <img src="screenshots/home.png" width="270" />
-  <img src="screenshots/editor.png" width="270" />
+  <img src="screenshots/home.jpg" width="270" />
+  <img src="screenshots/editor.jpg" width="270" />
+  <img src="screenshots/home_light.jpg" width="270" />
+  <img src="screenshots/home_dark.jpg" width="270" />
   -->
 </p>
 
