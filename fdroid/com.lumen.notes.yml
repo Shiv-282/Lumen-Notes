@@ -1,0 +1,24 @@
+Categories:
+  - Writing
+License: GPL-3.0-only
+AuthorName: Shiv Patidar
+SourceCode: https://github.com/Shiv-282/Lumen-Notes
+IssueTracker: https://github.com/Shiv-282/Lumen-Notes/issues
+
+Name: Lumen
+Summary: Liquid-glass notebook — write, draw, organize ideas.
+Description: |-
+    Lumen is a liquid-glass notebook for Android.
+
+    Write anywhere — tap any spot on the page and type, side by side with
+    smooth freeform ink. Lasso anything to move, copy, cut, or delete it.
+    Organize with folders, tags, pins, and search. Trash with restore.
+
+    * Liquid glass UI with real refraction and blur
+    * Smooth quadratic ink with custom color picker (hue ring + lightness)
+    * Pinch to zoom, double-tap to reset
+    * Autosave with thumbnails, fully offline, no tracking
+    * Dark mode plus pure white and pure black themes
+
+    Lumen is free software under GPL-3.0. No accounts, no cloud, no
+    internet permission.

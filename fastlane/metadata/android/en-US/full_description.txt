@@ -1,0 +1,21 @@
+Lumen is a liquid-glass notebook for Android.
+
+<b>Write anywhere</b>
+Tap any spot on the page and type — text lives right where you put it, side by side with your drawings.
+
+<b>Draw with smooth ink</b>
+Quadratic-smoothed strokes in six colors plus a full custom picker (hue ring and light-to-dark slider). Adjustable brush width.
+
+<b>Lasso anything</b>
+Circle any part of your note to move, copy, cut, or delete it — strokes and text alike.
+
+<b>Organize your way</b>
+Folders, tags, pinning, full search, and a trash with restore — all backed by a local Room database. No accounts, no cloud, no tracking.
+
+<b>Liquid glass design</b>
+A translucent glass interface with real refraction and blur. Tool panels are born out of the dock with a liquid pinch-off animation. Dark mode, pure white, and pure black themes included.
+
+<b>Yours, offline</b>
+Everything is stored on your device. No internet permission required.
+
+Lumen is free software licensed under GPL-3.0.

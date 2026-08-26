@@ -1,0 +1,7 @@
+- Write anywhere on the page — text and ink side by side
+- Lasso select with move, copy, cut, and paste
+- Stroke eraser with live preview
+- Custom color picker with hue ring and lightness slider
+- Liquid pinch-off animation for tool panels
+- Dark, light, pure white, and pure black themes
+- Bug fixes and performance improvements
