@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src="screenshots/home.jpg" width="270" />
+  <img src="screenshots/home.jpg" width="200" />
   <img src="screenshots/editor.jpg" width="270" />
   <img src="screenshots/home_light.jpg" width="270" />
   <img src="screenshots/home_dark.jpg" width="270" />
