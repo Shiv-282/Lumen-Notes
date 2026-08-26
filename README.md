@@ -66,4 +66,4 @@ The APK is generated in `app/build/outputs/apk/debug/`.
 
 ---
 
-Made with Lumen ✦
+Made with Opencode - Oxalpha 
