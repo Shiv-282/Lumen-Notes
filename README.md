@@ -3,12 +3,10 @@
 **A liquid-glass notebook for Android — write, draw, and shape your ideas on a freeform canvas.**
 
 <p align="center">
-  <!-- Add your screenshots here, e.g.:
-  <img src="screenshots/home.jpg" width="270" />
-  <img src="screenshots/editor.jpg" width="270" />
-  <img src="screenshots/home_light.jpg" width="270" />
+
+  | <img src="screenshots/home.jpg" width="270" /> |
+  <img src="screenshots/editor.jpg" width="270" /> | <img src="screenshots/home_light.jpg" width="270" /> |
   <img src="screenshots/home_dark.jpg" width="270" />
-  -->
 </p>
 
 ## ✨ Features
